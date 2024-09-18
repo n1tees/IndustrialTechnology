@@ -4,6 +4,6 @@
 ### Объект: Интернет-магазин автозапчастей
 
 ### 1.1 Диаграмма БД
-![use_case_ap drawio](https://github.com/user-attachments/assets/beb33b57-a4b6-4fbd-a115-ac0e2b9f636f)
+![autoparts_db drawio](https://github.com/user-attachments/assets/6e3ba4fc-a549-4b18-8cc0-26770bd90af2)
 ### 1.2 Описание сущностей
 in progress...
