@@ -1,1 +1,3 @@
 # IndustrialTechnology
+
+Создание логической БД
