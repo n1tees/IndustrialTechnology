@@ -2,7 +2,9 @@
 # ЭФМО-01-24 Солонин Н.С.
 
 Объект: городская библиотека
-![library_diagram_of_class](https://github.com/user-attachments/assets/b2ec8c20-8ead-4882-8f82-f2f3bcd35223)
+
+![library_diagram_of_class](https://github.com/user-attachments/assets/bddefdbc-ab1a-4843-8ff1-665b8c0108c4)
+
 ### Описание классов:
 1. User (abstreact) - несет общую информацию о читатаеле и библиотекаре
 2. Librarian - описывает свойства и действия бибилиотекаря
