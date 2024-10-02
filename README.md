@@ -1,9 +1,9 @@
 # IndustrialTechnology - Practise 3 - Диаграмма классов 
 # ЭФМО-01-24 Солонин Н.С.
 
-Объект: городская библиотека
+**Объект:** городская библиотека
 
-![library_diagram_of_class](https://github.com/user-attachments/assets/bddefdbc-ab1a-4843-8ff1-665b8c0108c4)
+![library_diagram_of_class](https://github.com/user-attachments/assets/29179514-1939-4a8c-ae48-edd4405e89d2)
 
 ### Описание классов:
 1. User (abstreact) - несет общую информацию о читатаеле и библиотекаре
