@@ -39,3 +39,14 @@ func main() {
         return
     } else { fmt.Println(err) }
 }
+func convertBase(number string, fromBase int, toBase int) (string, error) {
+    if fromBase < 2 || fromBase > 36 || toBase < 2 || toBase > 36 {
+        return "", errors.New("invalid number system")
+    }
+
+    n, ok := new(big.Int).SetString(number, fromBase)
+    if !ok {
+        return "", errors.New("not possible to convert this number")
+    }
+    return n.Text(toBase), nil
+}
