@@ -6,7 +6,7 @@ import (
 )
 
 
-func task11() {
+func main() {
 	var number int
 	fmt.Print("Введите число: ")
 	fmt.Scan(&number)
