@@ -14,3 +14,12 @@ import (
 	sum := sumDigits(number)
 	fmt.Println("Сумма цифр числа:", sum)
 }
+
+func sumDigits(number int) int {
+	sum := 0
+	for number > 0 {
+		sum += number % 10
+		number /= 10
+	}
+	return sum
+}
