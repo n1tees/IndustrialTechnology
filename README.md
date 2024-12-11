@@ -1,4 +1,4 @@
-# IndustrialTechnology - Practise 5-2 - Список задач на тему Функции. Язык программирования go.
+# IndustrialTechnology - Practise 5-2 - Задачи на функции в GO
 # ЭФМО-01-24 Солонин Н.С.
 
 Задачи: <br>
