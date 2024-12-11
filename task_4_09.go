@@ -5,7 +5,6 @@ import (
 	"math"
 )
 
-
 func main() {
 	var age int
 	fmt.Print("Введите возраст: ")
